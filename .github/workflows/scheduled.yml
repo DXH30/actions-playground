@@ -1,7 +1,7 @@
 name: Scheduled post
 
 on:
-  pull_request:
+  push:
 
 jobs:
   schedule:
